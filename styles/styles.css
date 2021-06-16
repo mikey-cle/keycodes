@@ -1,0 +1,12 @@
+.display{
+    width: 600px;
+    height: 200px;
+    background-image: linear-gradient(#548383, #000);
+    font-size: xx-large;
+    color: green;
+}
+
+p {
+    color: teal;
+    font-size: xx-large;
+}
