@@ -5,7 +5,24 @@
     font-size: xx-large;
     color: green;
 }
+body {
+    background-color: rgb(241, 228, 228);
+}
+.welcome {
+    margin: 40vh 50vh 50vh 50vh;
+    font-family: 'Courgette', cursive;
+    max-width: 80vw;
+    min-height: 10vh;
+    max-height: 20vh;
+    background-color: thistle;
+    box-shadow: grey 5px 5px;
+    color:teal;  
+    /* font-size: large; */
+    padding: 3% 3% 3% 3%;
 
+    
+    
+}
 p {
     color: teal;
     font-size: xx-large;
